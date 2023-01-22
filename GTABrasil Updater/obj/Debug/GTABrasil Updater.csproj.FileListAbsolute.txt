@@ -1,0 +1,19 @@
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\GTABrasil Updater.exe.config
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\GTABrasil Updater.exe
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\GTABrasil Updater.pdb
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil_Updater.Properties.Resources.resources
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.exe
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.pdb
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil_Updater.FirstScreen.resources
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil_Updater.Form1.resources
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\AltoHttp.dll
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\DiscordRPC.dll
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\DiscordRPC.pdb
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\DiscordRPC.xml
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.csproj.CopyComplete
