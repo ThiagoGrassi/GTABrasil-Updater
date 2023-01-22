@@ -89,10 +89,10 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "FirstScreen";
             this.Text = "GTABR Updater";
-            this.Load += new System.EventHandler(this.FirstScreen_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -20,20 +20,19 @@ namespace GTABrasil_Updater
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
                 filePath = Path.GetDirectoryName(openFileDialog1.FileName);
 
-            Form1.DestinatePath = filePath;
+            DownloadScreen.DestinatePath = filePath;
             this.textBox1.Text = filePath;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if (filePath == null){
+                MessageBox.Show("Você precisa selecionar um arquivo!");
+                return;
+            }
             this.Hide();
-            Form1 f1 = new Form1();
+            DownloadScreen f1 = new DownloadScreen();
             f1.ShowDialog();
-        }
-
-        private void FirstScreen_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

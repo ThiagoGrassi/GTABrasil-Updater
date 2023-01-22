@@ -9,7 +9,6 @@ C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABra
 C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.exe
 C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.pdb
 C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil_Updater.FirstScreen.resources
-C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil_Updater.Form1.resources
 C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\AltoHttp.dll
 C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\DiscordRPC.dll
 C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\Newtonsoft.Json.dll
@@ -17,3 +16,8 @@ C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\Discor
 C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\DiscordRPC.xml
 C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\Newtonsoft.Json.xml
 C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil Updater.csproj.CopyComplete
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\DotNetZip.dll
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\DotNetZip.pdb
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\DotNetZip.xml
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\obj\Debug\GTABrasil_Updater.DownloadScreen.resources
+C:\Users\thiag\source\repos\GTABrasil Updater\GTABrasil Updater\bin\Debug\IOExtensions.dll

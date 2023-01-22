@@ -1,6 +1,6 @@
 ﻿namespace GTABrasil_Updater
 {
-    partial class Form1
+    partial class DownloadScreen
     {
         /// <summary>
         /// Required designer variable.
@@ -28,21 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DownloadScreen));
+            this.DownloadButton = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.progressBar2 = new System.Windows.Forms.ProgressBar();
+            this.LoadingBar = new System.Windows.Forms.ProgressBar();
             this.SuspendLayout();
             // 
-            // button1
+            // DownloadButton
             // 
-            this.button1.Location = new System.Drawing.Point(456, 384);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(134, 43);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Baixar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.DownloadButton.Location = new System.Drawing.Point(456, 384);
+            this.DownloadButton.Name = "DownloadButton";
+            this.DownloadButton.Size = new System.Drawing.Size(134, 43);
+            this.DownloadButton.TabIndex = 0;
+            this.DownloadButton.Text = "Baixar";
+            this.DownloadButton.UseVisualStyleBackColor = true;
+            this.DownloadButton.Click += new System.EventHandler(this.DownloadButton_Click);
             // 
             // label1
             // 
@@ -64,26 +65,27 @@
             this.label2.Text = "0%";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // progressBar2
+            // LoadingBar
             // 
-            this.progressBar2.Location = new System.Drawing.Point(15, 141);
-            this.progressBar2.Name = "progressBar2";
-            this.progressBar2.Size = new System.Drawing.Size(420, 23);
-            this.progressBar2.TabIndex = 4;
+            this.LoadingBar.Location = new System.Drawing.Point(15, 141);
+            this.LoadingBar.Name = "LoadingBar";
+            this.LoadingBar.Size = new System.Drawing.Size(420, 23);
+            this.LoadingBar.TabIndex = 4;
             // 
-            // Form1
+            // DownloadScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(625, 450);
-            this.Controls.Add(this.progressBar2);
+            this.Controls.Add(this.LoadingBar);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.DownloadButton);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(641, 489);
-            this.Name = "Form1";
+            this.Name = "DownloadScreen";
             this.Text = "GTABrasil Updater";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -92,9 +94,9 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button DownloadButton;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.ProgressBar progressBar2;
+        private System.Windows.Forms.ProgressBar LoadingBar;
     }
 }
